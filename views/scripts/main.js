@@ -3,9 +3,9 @@ const proxyurl = "https://cors-anywhere.herokuapp.com/";
 var jql = "project=PS%20AND%20assignee=%22stephen%20leslie%22%20AND%20issuetype=Epic%20AND%20status!=done%20AND%20status!=declined%20AND%20status!=%22customer%20declined%22+order+by+summary"
 var fields = "id,summary,status,customfield_10700,description"
 //var url = "https://sharpspring.atlassian.net/rest/api/latest/search?jql=" + jql + "&fields=" + fields
-var epicUrl ="epics.json"    //https://sharpspring.atlassian.net/rest/api/latest/search?jql=project=PS%20AND%20assignee=%22stephen%20leslie%22%20AND%20issuetype=Epic%20AND%20status!=done%20AND%20status!=declined%20AND%20status!=%22customer%20declined%22+order+by+summary&fields=id,summary,colorName
-var issueUrl = "issues.json" //https://sharpspring.atlassian.net/rest/api/latest/search?jql=issuetype=%22integration%20task%22%20AND%20reporter=%22stephen%20leslie%22%20AND%20status!=Done%20AND%20status!=Declined%20AND%20status!=%22Customer%20Declined%22&fields=summary,id,key,reporter,customfield_10007,duedate,status,description&maxResults=100
-var flagUrl = "flags.json" //
+var epicUrl ="/jsons/epics.json"    //https://sharpspring.atlassian.net/rest/api/latest/search?jql=project=PS%20AND%20assignee=%22stephen%20leslie%22%20AND%20issuetype=Epic%20AND%20status!=done%20AND%20status!=declined%20AND%20status!=%22customer%20declined%22+order+by+summary&fields=id,summary,colorName
+var issueUrl = "/jsons/issues.json" //https://sharpspring.atlassian.net/rest/api/latest/search?jql=issuetype=%22integration%20task%22%20AND%20reporter=%22stephen%20leslie%22%20AND%20status!=Done%20AND%20status!=Declined%20AND%20status!=%22Customer%20Declined%22&fields=summary,id,key,reporter,customfield_10007,duedate,status,description&maxResults=100
+var flagUrl = "/jsons/flags.json" //
 var browse = "https://sharpspring.atlassian.net/browse/"
 
 var flagData
