@@ -1,0 +1,997 @@
+{
+  "308479083": {
+    "CompanyName": "OneCore Media Corp.",
+    "MaturedMonth": "March 2020",
+    "EstimatedMaturityDate": "2/8/20",
+    "isIntegrated": "YES",
+    "BinaryCount": "10",
+    "Mantatory": "5"
+  },
+  "308479360": {
+    "CompanyName": "LuminFire",
+    "EstimatedMaturityDate": "2020-02-08T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308478750": {
+    "CompanyName": "Echo Design Group",
+    "EstimatedMaturityDate": "2020-02-03T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479581": {
+    "CompanyName": "Brokers Edge",
+    "EstimatedMaturityDate": "2020-02-21T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 4
+  },
+  "308479256": {
+    "CompanyName": "Marketing Relevance",
+    "EstimatedMaturityDate": "2020-03-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479533": {
+    "CompanyName": "Quenzel & Associates",
+    "EstimatedMaturityDate": "2020-03-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479066": {
+    "CompanyName": "R3 Aviation Marketing",
+    "EstimatedMaturityDate": "2020-02-17T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 13,
+    "Mantatory": 5
+  },
+  "308479493": {
+    "CompanyName": "Eliasson Marketing",
+    "EstimatedMaturityDate": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308479496": {
+    "CompanyName": "The Ousset Agency Inc",
+    "EstimatedMaturityDate": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479579": {
+    "CompanyName": "Menacin Media",
+    "EstimatedMaturityDate": "2020-03-06T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308479646": {
+    "CompanyName": "Flashpoint Digital Marketing",
+    "EstimatedMaturityDate": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 4
+  },
+  "308479685": {
+    "CompanyName": "Captivate",
+    "EstimatedMaturityDate": "2020-03-08T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479687": {
+    "CompanyName": "SPINE LLC",
+    "EstimatedMaturityDate": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 3
+  },
+  "308479725": {
+    "CompanyName": "TROY Group, Inc.",
+    "EstimatedMaturityDate": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479462": {
+    "CompanyName": "ADwerks",
+    "EstimatedMaturityDate": "2020-03-16T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479543": {
+    "CompanyName": "GCSIT Solutions",
+    "EstimatedMaturityDate": "2020-03-10T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 2,
+    "Mantatory": 1
+  },
+  "308479607": {
+    "CompanyName": "BrandSavants",
+    "EstimatedMaturityDate": "2020-03-10T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479655": {
+    "CompanyName": "iTrust Marketing",
+    "EstimatedMaturityDate": "2020-03-10T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 13,
+    "Mantatory": 5
+  },
+  "308478593": {
+    "CompanyName": "Angry Apple Media",
+    "EstimatedMaturityDate": "2020-03-22T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479657": {
+    "CompanyName": "Exitable",
+    "EstimatedMaturityDate": "2020-03-21T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479678": {
+    "CompanyName": "Smart Link Solutions",
+    "EstimatedMaturityDate": "2020-03-22T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479781": {
+    "CompanyName": "Crossmedia Communicatiegroep",
+    "EstimatedMaturityDate": "2020-03-13T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479789": {
+    "CompanyName": "Paulinox Inc",
+    "EstimatedMaturityDate": "2020-03-17T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308479799": {
+    "CompanyName": "Cybernet Manufacturing",
+    "EstimatedMaturityDate": "2020-03-14T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308479800": {
+    "CompanyName": "Sa Property Investors Network 2",
+    "EstimatedMaturityDate": "2020-03-17T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 4
+  },
+  "308479566": {
+    "CompanyName": "EZI Marketing",
+    "EstimatedMaturityDate": "2020-03-24T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308479877": {
+    "CompanyName": "MediaSpark",
+    "EstimatedMaturityDate": "2020-03-24T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 2,
+    "Mantatory": 1
+  },
+  "308479898": {
+    "CompanyName": "MSP Resource Group",
+    "EstimatedMaturityDate": "2020-03-21T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479932": {
+    "CompanyName": "Life in Motion",
+    "EstimatedMaturityDate": "2020-03-17T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308479936": {
+    "CompanyName": "Kinnebrew Capital",
+    "EstimatedMaturityDate": "2020-03-24T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479939": {
+    "CompanyName": "Doohickey",
+    "EstimatedMaturityDate": "2020-03-21T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479943": {
+    "CompanyName": "Vologon Productions",
+    "EstimatedMaturityDate": "2020-03-21T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 3
+  },
+  "308479788": {
+    "CompanyName": "SocialPulsar",
+    "EstimatedMaturityDate": "2020-03-29T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308479803": {
+    "CompanyName": "Everybody Likes Penguins",
+    "EstimatedMaturityDate": "2020-03-30T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479860": {
+    "CompanyName": "KALEIDOSCOPE MEDIA SERVICES",
+    "EstimatedMaturityDate": "2020-03-29T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 3,
+    "Mantatory": 2
+  },
+  "308479902": {
+    "CompanyName": "CU Service Network",
+    "EstimatedMaturityDate": "2020-03-27T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308479964": {
+    "CompanyName": "bluespace creative, inc.",
+    "EstimatedMaturityDate": "2020-03-28T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308480025": {
+    "CompanyName": "Social Advisors",
+    "EstimatedMaturityDate": "2020-03-28T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308480031": {
+    "CompanyName": "Technology Aloha",
+    "EstimatedMaturityDate": "2020-03-29T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 3,
+    "Mantatory": 2
+  },
+  "308480037": {
+    "CompanyName": "TopRight",
+    "EstimatedMaturityDate": "2020-03-29T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 4
+  },
+  "308480152": {
+    "CompanyName": "Authenteq EHF",
+    "EstimatedMaturityDate": "2020-03-29T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479155": {
+    "CompanyName": "My-Guest",
+    "EstimatedMaturityDate": "2020-03-31T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479701": {
+    "CompanyName": "B2B Online",
+    "EstimatedMaturityDate": "2020-03-31T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308480004": {
+    "CompanyName": "MDM Demand Generation Services",
+    "EstimatedMaturityDate": "2020-03-31T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308480083": {
+    "CompanyName": "Optimal Digital-Solutions",
+    "EstimatedMaturityDate": "2020-03-31T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308480150": {
+    "CompanyName": "id29",
+    "EstimatedMaturityDate": "2020-04-03T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 1,
+    "Mantatory": 0
+  },
+  "308480156": {
+    "CompanyName": "Infinity Platforms",
+    "EstimatedMaturityDate": "2020-04-05T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 4,
+    "Mantatory": 4
+  },
+  "308480160": {
+    "CompanyName": "Ziggi Marketing LLC",
+    "EstimatedMaturityDate": "2020-04-06T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 4
+  },
+  "308480190": {
+    "CompanyName": "Haggerty & Haggerty Digital Services",
+    "EstimatedMaturityDate": "2020-04-04T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 5
+  },
+  "308480236": {
+    "CompanyName": "Process & Steam Specialties Inc",
+    "EstimatedMaturityDate": "2020-04-05T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 4,
+    "Mantatory": 4
+  },
+  "308480284": {
+    "CompanyName": "Commino",
+    "EstimatedMaturityDate": "2020-04-05T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308480288": {
+    "CompanyName": "Make it Active, LLC",
+    "EstimatedMaturityDate": "2020-04-07T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 4
+  },
+  "308480209": {
+    "CompanyName": "Storm Creek",
+    "EstimatedMaturityDate": "2020-04-10T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 3
+  },
+  "308480225": {
+    "CompanyName": "Night After Night",
+    "EstimatedMaturityDate": "2020-04-10T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 7,
+    "Mantatory": 4
+  },
+  "308480356": {
+    "CompanyName": "Viim",
+    "EstimatedMaturityDate": "2020-04-11T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 3
+  },
+  "308480229": {
+    "CompanyName": "Intelligent Online",
+    "EstimatedMaturityDate": "2020-04-12T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 4
+  },
+  "308480330": {
+    "CompanyName": "Crabby Co-Worker",
+    "EstimatedMaturityDate": "2020-04-12T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 3
+  },
+  "308480193": {
+    "CompanyName": "Pi Marketing Group",
+    "EstimatedMaturityDate": "2020-04-14T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 3
+  },
+  "308480264": {
+    "CompanyName": "Zag First",
+    "EstimatedMaturityDate": "2020-04-18T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 3
+  },
+  "308480460": {
+    "CompanyName": "IndigoOne Inc",
+    "EstimatedMaturityDate": "2020-04-19T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 2,
+    "Mantatory": 1
+  },
+  "308480192": {
+    "CompanyName": "Business Builders Marketing",
+    "EstimatedMaturityDate": "2020-04-19T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 4,
+    "Mantatory": 2
+  },
+  "308480523": {
+    "CompanyName": "The Med Spa at Enid Live Well",
+    "EstimatedMaturityDate": "2020-04-20T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 3,
+    "Mantatory": 2
+  },
+  "308480215": {
+    "CompanyName": "WebbMason Marketing",
+    "EstimatedMaturityDate": "2020-04-20T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 4,
+    "Mantatory": 4
+  },
+  "308477329": {
+    "CompanyName": "R2integrated",
+    "MaturedMonth": "2019-10-30T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308477384": {
+    "CompanyName": "OneDayOne Marketing",
+    "MaturedMonth": "2019-10-31T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308477819": {
+    "CompanyName": "doeLEGAL",
+    "MaturedMonth": "2019-11-05T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308477671": {
+    "CompanyName": "BTP Unite LLC",
+    "MaturedMonth": "2019-11-11T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 4
+  },
+  "308477272": {
+    "CompanyName": "Bluhook Inc",
+    "MaturedMonth": "2019-10-07T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 8,
+    "Mantatory": 3
+  },
+  "308477315": {
+    "CompanyName": "Garlic Media Management",
+    "MaturedMonth": "2019-11-11T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308477346": {
+    "CompanyName": "Pubmarket",
+    "MaturedMonth": "2019-11-04T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 8,
+    "Mantatory": 3
+  },
+  "308477389": {
+    "CompanyName": "Device Media Inc",
+    "MaturedMonth": "2019-11-11T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308477798": {
+    "CompanyName": "www.brainjocks.com",
+    "MaturedMonth": "2019-11-04T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308477514": {
+    "CompanyName": "Advent Digital Marketing",
+    "MaturedMonth": "2019-12-14T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308478093": {
+    "CompanyName": "Techtonic Sales",
+    "MaturedMonth": "2019-11-18T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308478125": {
+    "CompanyName": "Coro Srl",
+    "MaturedMonth": "2019-11-19T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 1,
+    "Mantatory": 0
+  },
+  "308478440": {
+    "CompanyName": "Vitalis Extraction Technology",
+    "MaturedMonth": "2019-12-03T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308478400": {
+    "CompanyName": "Integritive",
+    "MaturedMonth": "2019-12-10T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308478507": {
+    "CompanyName": "TEEDUP",
+    "MaturedMonth": "2019-12-10T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308478212": {
+    "CompanyName": "img Media Inc",
+    "MaturedMonth": "2019-12-20T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 4,
+    "Mantatory": 3
+  },
+  "308477830": {
+    "CompanyName": "VIAA",
+    "MaturedMonth": "2019-12-13T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308477869": {
+    "CompanyName": "Marketing Minds",
+    "MaturedMonth": "2019-12-01T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308477960": {
+    "CompanyName": "Advantage Marketing",
+    "MaturedMonth": "2019-12-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308477996": {
+    "CompanyName": "Myblendedlearning.com",
+    "MaturedMonth": "2019-11-01T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 2,
+    "Mantatory": 1
+  },
+  "308478138": {
+    "CompanyName": "Enlightened Technology",
+    "MaturedMonth": "2019-12-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308478269": {
+    "CompanyName": "HV Social Media",
+    "MaturedMonth": "2019-12-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308478341": {
+    "CompanyName": "Direct Marketing Partners",
+    "MaturedMonth": "2019-12-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308477938": {
+    "CompanyName": "SkyLowe",
+    "MaturedMonth": "2019-12-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308478374": {
+    "CompanyName": "Avant Healthcare",
+    "MaturedMonth": "2019-12-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308478353": {
+    "CompanyName": "Sextant Marketing",
+    "MaturedMonth": "2019-12-09T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 4,
+    "Mantatory": 2
+  },
+  "308478319": {
+    "CompanyName": "Connoisseur Media",
+    "MaturedMonth": "2019-12-13T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 3,
+    "Mantatory": 2
+  },
+  "308478180": {
+    "CompanyName": "Terry Forsey Consulting",
+    "MaturedMonth": "2019-12-09T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 14,
+    "Mantatory": 5
+  },
+  "308478478": {
+    "CompanyName": "Evessio",
+    "MaturedMonth": "2019-12-15T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308477560": {
+    "CompanyName": "Sign & Graphics Operations",
+    "MaturedMonth": "2019-12-17T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 3
+  },
+  "308478569": {
+    "CompanyName": "On Target Digital Marketing",
+    "MaturedMonth": "2019-12-23T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308478115": {
+    "CompanyName": "Business Owner's MBA",
+    "MaturedMonth": "2019-12-26T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308476199": {
+    "CompanyName": "Origin",
+    "MaturedMonth": "2020-01-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308478580": {
+    "CompanyName": "DisplayMax, Inc.",
+    "MaturedMonth": "2020-01-08T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308478344": {
+    "CompanyName": "Jump Company",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308478694": {
+    "CompanyName": "Concord Publishing House",
+    "MaturedMonth": "2020-01-02T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308478730": {
+    "CompanyName": "BLUEHIVE GROUP",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308478895": {
+    "CompanyName": "Hensley Associates",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 4
+  },
+  "308479071": {
+    "CompanyName": "Truth Tree Consulting",
+    "MaturedMonth": "2020-01-05T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308478695": {
+    "CompanyName": "echonovum AG",
+    "MaturedMonth": "2020-01-14T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308478659": {
+    "CompanyName": "Code Conspirators",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308478797": {
+    "CompanyName": "Trademark Productions",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308478857": {
+    "CompanyName": "Neuelane",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 5,
+    "Mantatory": 2
+  },
+  "308478451": {
+    "CompanyName": "Thunderbird",
+    "MaturedMonth": "2020-01-06T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479050": {
+    "CompanyName": "Gallon Inc/Bob's Septic",
+    "MaturedMonth": "2020-01-03T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308478748": {
+    "CompanyName": "Introworks, Inc.",
+    "MaturedMonth": "2020-01-01T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308478338": {
+    "CompanyName": "Inner Spark Creative",
+    "MaturedMonth": "2020-01-21T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 13,
+    "Mantatory": 5
+  },
+  "308478671": {
+    "CompanyName": "Murray-Percival",
+    "MaturedMonth": "2020-01-24T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479010": {
+    "CompanyName": "Shannon L Post Inc",
+    "MaturedMonth": "2020-01-22T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479137": {
+    "CompanyName": "Customer Elation",
+    "MaturedMonth": "2020-01-24T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308478850": {
+    "CompanyName": "SiteInSight",
+    "MaturedMonth": "2020-01-27T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 4
+  },
+  "308479052": {
+    "CompanyName": "Inthink LLC",
+    "MaturedMonth": "2020-01-29T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 4
+  },
+  "308479204": {
+    "CompanyName": "MINT Social",
+    "MaturedMonth": "2020-01-27T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 4
+  },
+  "308479147": {
+    "CompanyName": "Zipher Medical Affairs Co., LLC",
+    "MaturedMonth": "2020-02-04T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479237": {
+    "CompanyName": "Blue Engineering",
+    "MaturedMonth": "2020-02-17T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 4
+  },
+  "308479367": {
+    "CompanyName": "KabelPlus/Snappii",
+    "MaturedMonth": "2020-02-17T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 5
+  },
+  "308479293": {
+    "CompanyName": "Bower Web Solutions",
+    "MaturedMonth": "2020-02-26T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479467": {
+    "CompanyName": "Empirical360",
+    "MaturedMonth": "2020-02-17T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479594": {
+    "CompanyName": "Dentalfone",
+    "MaturedMonth": "2020-02-28T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479494": {
+    "CompanyName": "International House of Graphics",
+    "MaturedMonth": "2020-02-17T05:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 7,
+    "Mantatory": 5
+  },
+  "308479547": {
+    "CompanyName": "Grow My Camp",
+    "MaturedMonth": "2020-02-18T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479094": {
+    "CompanyName": "Interrupt Media",
+    "MaturedMonth": "2020-02-10T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308479128": {
+    "CompanyName": "AdCo Advertising Agency, Inc.",
+    "MaturedMonth": "2020-02-10T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479289": {
+    "CompanyName": "Millennium Marketing Solutions",
+    "MaturedMonth": "2020-03-01T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308478722": {
+    "CompanyName": "Idea Development ID Ltd.",
+    "MaturedMonth": "2020-03-01T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 5
+  },
+  "308479461": {
+    "CompanyName": "RebL Marketing",
+    "MaturedMonth": "2020-03-04T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479503": {
+    "CompanyName": "Harris Interactive",
+    "MaturedMonth": "2020-03-04T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479618": {
+    "CompanyName": "Retail Success",
+    "MaturedMonth": "2020-03-04T05:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308479634": {
+    "CompanyName": "Inspiria Outdoor",
+    "MaturedMonth": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 9,
+    "Mantatory": 4
+  },
+  "308479703": {
+    "CompanyName": "Royal Cheese Digital",
+    "MaturedMonth": "2020-03-09T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308479861": {
+    "CompanyName": "Strategic Compliance Partners",
+    "MaturedMonth": "2020-03-11T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308479626": {
+    "CompanyName": "Digital Bard Video",
+    "MaturedMonth": "2020-03-12T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308479630": {
+    "CompanyName": "Accelerex Holdings",
+    "MaturedMonth": "2020-03-12T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 10,
+    "Mantatory": 5
+  },
+  "308479628": {
+    "CompanyName": "Band of Mangoes Co.",
+    "MaturedMonth": "2020-03-16T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 14,
+    "Mantatory": 5
+  },
+  "308479233": {
+    "CompanyName": "Lemonade",
+    "MaturedMonth": "2020-03-11T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 8,
+    "Mantatory": 4
+  },
+  "308479506": {
+    "CompanyName": "52 Pick-Up Inc",
+    "MaturedMonth": "2020-03-18T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 6,
+    "Mantatory": 5
+  },
+  "308479558": {
+    "CompanyName": "RedMark Group",
+    "MaturedMonth": "2020-03-24T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 11,
+    "Mantatory": 5
+  },
+  "308479889": {
+    "CompanyName": "iClicks",
+    "MaturedMonth": "2020-03-27T04:00:00.000Z",
+    "isIntegrated": "YES",
+    "BinaryCount": 12,
+    "Mantatory": 5
+  },
+  "308480102": {
+    "CompanyName": "D-W-I",
+    "MaturedMonth": "2020-03-27T04:00:00.000Z",
+    "isIntegrated": "No",
+    "BinaryCount": 3,
+    "Mantatory": 2
+  }
+}
